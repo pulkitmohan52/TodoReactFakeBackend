@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-group {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+  }
+  
+  .todo-input {
+    flex-shrink: 1; /* Let the input take up the remaining space */
+    margin-right: 10px; /* Add some space between input and button */
+  }
+  
+  .todo-submit-btn {
+    flex-shrink: 1;
+    margin-right: 10px; /* Add some space between buttons */
+  }
+  
+  .todo-search-btn {
+    margin-left: auto; /* Push the search button to the far right */
+  }

@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "7920",
+      "title": "lay down the bricks",
+      "completed": false
+    },
+    {
+      "id": "525f",
+      "title": "learn javascript",
+      "completed": false
+    },
+    {
+      "id": "62a6",
+      "title": "clean tank",
+      "completed": false
+    }
+  ]
+}
